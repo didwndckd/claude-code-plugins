@@ -1,0 +1,8 @@
+{
+  "name": "doc-lens",
+  "description": "Summarize and verify documents for accuracy and quality",
+  "version": "0.1.0",
+  "author": {
+    "name": "didwndckd"
+  }
+}
