@@ -29,6 +29,11 @@ npm-debug.log*
 # Coverage & testing
 coverage/
 
+# Local settings
+*.local.json
+*.local.yaml
+*.local.yml
+
 # Misc
 *.tgz
 .cache/
