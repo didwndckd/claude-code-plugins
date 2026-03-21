@@ -1,0 +1,14 @@
+{
+  "name": "didwndckd-plugins",
+  "owner": {
+    "name": "didwndckd",
+    "email": "didwndckd@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "doc-lens",
+      "source": "./doc-lens",
+      "description": "Summarize and verify documents for accuracy and quality"
+    }
+  ]
+}
