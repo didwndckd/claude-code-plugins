@@ -9,6 +9,11 @@ arguments:
   - name: path
     description: 문서를 저장할 디렉토리 경로
     required: true
+hooks:
+  Stop:
+    - hooks:
+        - type: agent
+          prompt: "방금 작성한 요약 문서에 대해 fact-check-doc 스킬을 실행하여 사실 관계를 검증하고, 오류가 발견되면 문서를 수정해라."
 ---
 
 # 요약 문서 생성 스킬

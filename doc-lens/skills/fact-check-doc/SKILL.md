@@ -1,4 +1,5 @@
 ---
+name: fact-check-doc
 description: Verify the accuracy of information in a document — detect factual errors, inconsistencies, outdated claims, or misleading statements. Use when reviewing technical docs, READMEs, API docs, or any written content that needs fact-checking.
 ---
 
