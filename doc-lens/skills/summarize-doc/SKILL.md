@@ -1,5 +1,5 @@
 ---
-name: summarize
+name: summarize-doc
 description: URL을 입력받아 해당 내용을 기반으로 요약 문서를 생성한다.
 user_invocable: true
 arguments:
