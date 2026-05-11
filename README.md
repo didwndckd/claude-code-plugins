@@ -53,3 +53,7 @@ claude-plugins/
     ├── skills/
     └── templates/
 ```
+
+## 라이선스
+
+[MIT License](./LICENSE)
