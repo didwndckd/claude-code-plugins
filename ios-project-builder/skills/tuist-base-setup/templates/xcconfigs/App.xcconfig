@@ -1,0 +1,3 @@
+#include "Base.xcconfig"
+
+OTHER_LDFLAGS = $(inherited) -ObjC

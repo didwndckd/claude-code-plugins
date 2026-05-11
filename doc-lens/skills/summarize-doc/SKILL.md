@@ -12,7 +12,7 @@ arguments:
 hooks:
   Stop:
     - hooks:
-        - type: agent
+        - type: prompt
           prompt: "방금 작성한 요약 문서에 대해 fact-check-doc 스킬을 실행하여 사실 관계를 검증하고, 오류가 발견되면 문서를 수정해라."
 ---
 

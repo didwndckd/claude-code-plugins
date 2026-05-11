@@ -8,7 +8,12 @@
     {
       "name": "doc-lens",
       "source": "./doc-lens",
-      "description": "Summarize and verify documents for accuracy and quality"
+      "description": "문서를 요약하고 정확성과 품질을 검증하는 플러그인"
+    },
+    {
+      "name": "ios-project-builder",
+      "source": "./ios-project-builder",
+      "description": "iOS 프로젝트 빌드를 돕는 플러그인"
     }
   ]
 }

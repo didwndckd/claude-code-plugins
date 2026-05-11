@@ -1,0 +1,8 @@
+{
+  "name": "ios-project-builder",
+  "description": "iOS 프로젝트 빌드를 돕는 플러그인",
+  "author": {
+    "name": "yjc",
+    "email": "didwndckd@gmail.com"
+  }
+}
